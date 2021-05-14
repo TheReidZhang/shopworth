@@ -1,0 +1,22 @@
+.main {
+    background-color: rgb(0,167,186);
+}
+
+.dropdown-item {
+    text-align: center;
+    font-size: 50%;
+    font-weight: bold;
+}
+
+div.center-container {
+    position: absolute;
+    top: 0; 
+    bottom: 0; 
+    left: 0; 
+    right: 0;
+    margin: auto;
+    width: 50%; 
+    height: 50%;
+    display: table;
+    clear:left
+  }
